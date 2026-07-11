@@ -73,3 +73,9 @@
 [submodule "tools/commandline-tools"]
 	path = tools/commandline-tools
 	url = https://github.com/nasa/cfs-commandline-tools.git
+[submodule "apps/apps/my_app"]
+	path = apps/apps/my_app
+	url = https://github.com/djk1027/my_app.git
+[submodule "apps/my_app"]
+	path = apps/my_app
+	url = https://github.com/djk1027/my_app.git
